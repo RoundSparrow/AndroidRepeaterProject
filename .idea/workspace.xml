@@ -10,182 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca49c79e-597d-43b1-a4e6-e826e88c9c21" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/fq/router2/CommonConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/android-support-v4-cdaac7ac2036add17b511dace5048107878976fb.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/wifi_repeater/AcquireWifiLockService.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/wifi_repeater/AcquireWifiLockService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ActivityCore.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ActivityCore.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/AirplaneModeUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/AirplaneModeUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/ApkUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/ApkUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/BooleanVector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/BooleanVector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/BootCompletedReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/BootCompletedReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ByteVector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ByteVector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/CharVector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/CharVector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/CheckDnsPollutionService.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/CheckDnsPollutionService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/CheckUpdateService.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/CheckUpdateService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/ConfigUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/ConfigUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/ConnectivityChangeReceiver$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/ConnectivityChangeReceiver$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/ConnectivityChangeReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/ConnectivityChangeReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ConstPair.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ConstPair.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ConstVector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ConstVector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/dns/DNSConnection.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/dns/DNSConnection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/dns/DNSMsgHeader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/dns/DNSMsgHeader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/dns/DNSName.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/dns/DNSName.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/dns/DNSRecAltCmp.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/dns/DNSRecAltCmp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/dns/DNSRecord.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/dns/DNSRecord.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/Deployer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/Deployer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/DnsPollutedIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/DnsPollutedIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/DnsPollutedIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/DnsPollutedIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/DnsPollutedIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/DnsPollutedIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/DnsUtils$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/DnsUtils$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/DnsUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/DnsUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/DoubleVector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/DoubleVector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadFailedIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadFailedIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadFailedIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadFailedIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadFailedIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadFailedIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadService.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadedIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadedIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadedIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadedIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadedIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadedIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadingIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadingIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadingIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadingIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadingIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/DownloadingIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/ErrorReportEmail$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/ErrorReportEmail$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/ErrorReportEmail.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/ErrorReportEmail.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitService$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitService$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitService.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitedIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitedIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitedIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitedIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitedIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitedIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitingIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitingIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitingIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitingIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitingIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ExitingIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/FloatVector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/FloatVector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/GComparator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/GComparator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent$3$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent$3$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleAlertIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleFatalErrorIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleFatalErrorIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleFatalErrorIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleFatalErrorIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleFatalErrorIntent$Message.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleFatalErrorIntent$Message.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleFatalErrorIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/HandleFatalErrorIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/HttpUtils$Error.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/HttpUtils$Error.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/HttpUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/HttpUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/IOUtils$ChunkCopied.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/IOUtils$ChunkCopied.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/IOUtils$LineRead.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/IOUtils$LineRead.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/IOUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/IOUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Immutable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Immutable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Indexable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Indexable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/IntVector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/IntVector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/JavaConsts.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/JavaConsts.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchService$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchService$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchService$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchService$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchService.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchedIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchedIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchedIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchedIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchedIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchedIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchingIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchingIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchingIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchingIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchingIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/LaunchingIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Lockable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Lockable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/LogUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/LogUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/LoggedBroadcastReceiver.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/LoggedBroadcastReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/LongVector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/LongVector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$12.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$13.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$14.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$14.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$15.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$15.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$16.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$9$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$9$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$MyGestureDetector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity$MyGestureDetector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainSettingsActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainSettingsActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainSettingsActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/MainSettingsActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ManagerProcess.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/life_cycle/ManagerProcess.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Metricable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Metricable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/MultiObservable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/MultiObservable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Notifiable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Notifiable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ObjectVector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ObjectVector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ObservedCore.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ObservedCore.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ParserException.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ParserException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/PseudoRandom.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/PseudoRandom.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ReallyCloneable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ReallyCloneable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/wifi_repeater/ReleaseWifiLockService.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/wifi_repeater/ReleaseWifiLockService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/SafeRunnable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/SafeRunnable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/ShellUtils$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/ShellUtils$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/ShellUtils.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/ShellUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ShortVector.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ShortVector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnConnectedIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnConnectedIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnConnectedIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnConnectedIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnConnectedIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnConnectedIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnService$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnService$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnService$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnService$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnService.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/SocksVpnService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Sortable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Sortable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/StartedAtFlag.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/utils/StartedAtFlag.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/StrComparator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/StrComparator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ToString.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/ToString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/TrimToSizeable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/TrimToSizeable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/UnsignedInt.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/UnsignedInt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/UnsignedLong.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/UnsignedLong.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/UpdateFoundIntent$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/UpdateFoundIntent$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/UpdateFoundIntent$Handler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/UpdateFoundIntent$Handler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/UpdateFoundIntent.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/fq/router2/feedback/UpdateFoundIntent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Verifiable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/net/sf/ivmaidns/util/Verifiable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/fq/router2/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/fq/router2/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/ConfigUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/ConfigUtils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/Deployer.java" afterPath="$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/Deployer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/IOUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/IOUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/LaunchService.java" afterPath="$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/LaunchService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/LogUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/LogUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/fq/router2/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/fq/router2/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/ManagerProcess.java" afterPath="$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/ManagerProcess.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/fq/router2/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/fq/router2/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/ShellUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/ShellUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/StartedAtFlag.java" afterPath="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/StartedAtFlag.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AndroidRepeaterProject.iws" />
@@ -227,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Deployer.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Deployer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/Deployer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="221" column="47" selection-start-line="221" selection-start-column="47" selection-end-line="221" selection-end-column="47" />
+            <state vertical-scroll-proportion="-0.013487476">
+              <caret line="189" column="54" selection-start-line="189" selection-start-column="54" selection-end-line="189" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -241,8 +69,10 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/LaunchService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="67" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
-              <folding />
+              <caret line="132" column="44" selection-start-line="132" selection-start-column="44" selection-end-line="132" selection-end-column="44" />
+              <folding>
+                <element signature="e#4560#4593#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -300,17 +130,17 @@
       <file leaf-file-name="ShellUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/utils/ShellUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="5.6896553">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.62069">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommonConfig.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CommonConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/CommonConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31791908">
+            <state vertical-scroll-proportion="0.0">
               <caret line="11" column="88" selection-start-line="11" selection-start-column="88" selection-end-line="11" selection-end-column="88" />
               <folding />
             </state>
@@ -1857,7 +1687,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/fq/router2/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/ShellUtils.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/Deployer.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/LaunchService.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/ManagerProcess.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/ConfigUtils.java" />
@@ -1865,6 +1694,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/LogUtils.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/fq/router2/utils/StartedAtFlag.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/fq/router2/CommonConfig.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/Deployer.java" />
       </list>
     </option>
   </component>
@@ -1872,8 +1702,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="267" />
-    <option name="y" value="48" />
+    <option name="x" value="318" />
+    <option name="y" value="51" />
     <option name="width" value="1614" />
     <option name="height" value="970" />
   </component>
@@ -1888,7 +1718,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -1900,7 +1730,62 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidRepeaterProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidRepeaterProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidRepeaterProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidRepeaterProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidRepeaterProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidRepeaterProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidRepeaterProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
@@ -1938,76 +1823,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ivmaidns" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AndroidRepeaterProject" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ivmaidns" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AndroidRepeaterProject" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="router2" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AndroidRepeaterProject" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="router2" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wifi_repeater" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2192,7 +2007,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="267" y="48" width="1614" height="970" extended-state="0" />
+    <frame x="318" y="51" width="1614" height="970" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2201,7 +2016,7 @@
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="276" y="338" width="1568" height="567" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="163" y="460" width="1568" height="567" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -2286,30 +2101,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/utils/ShellUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.6896553">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/Deployer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="221" column="47" selection-start-line="221" selection-start-column="47" selection-end-line="221" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/LaunchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="67" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/ManagerProcess.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2352,8 +2143,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/CommonConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31791908">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="88" selection-start-line="11" selection-start-column="88" selection-end-line="11" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/utils/ShellUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.62069">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/LaunchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="132" column="44" selection-start-line="132" selection-start-column="44" selection-end-line="132" selection-end-column="44" />
+          <folding>
+            <element signature="e#4560#4593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/fq/router2/life_cycle/Deployer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.013487476">
+          <caret line="189" column="54" selection-start-line="189" selection-start-column="54" selection-end-line="189" selection-end-column="54" />
           <folding />
         </state>
       </provider>

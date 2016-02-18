@@ -187,7 +187,7 @@ public class Deployer {
             LogUtils.i("skip copy busybox as it already exists");
             return;
         }
-        LogUtils.i("copying busybox to data directory");
+        LogUtils.i("copying busybox to data directory: " + ShellUtils.BUSYBOX_FILE);
         InputStream inputStream = context.getAssets().open("busybox");
         try {
             OutputStream outputStream = new FileOutputStream(ShellUtils.BUSYBOX_FILE);
