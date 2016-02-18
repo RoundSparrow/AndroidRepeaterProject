@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">fqrouter2</string>
+    <string name="app_name">androidrepeater</string>
     <string name="old_version_alert_title">fqrouter has been upgraded to 2.x.x version</string>
     <string name="old_version_alert_message">If you experienced error, please restart your mobile and uninstall old fqrouter 1.x.x version.</string>
     <string name="old_version_alert_button">OK, I will do it</string>

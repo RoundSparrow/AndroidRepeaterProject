@@ -4,10 +4,12 @@ import org.json.JSONObject;
 
 import java.io.File;
 
+import fq.router2.CommonConfig;
+
 public class ConfigUtils {
 
     public static int getHttpManagerPort() {
-        File configFile = new File("/data/data/fq.router2/etc/fqsocks.json");
+        File configFile = new File(CommonConfig.basePathA + "etc/fqsocks.json");
         if (!configFile.exists()) {
             return 2515;
         }

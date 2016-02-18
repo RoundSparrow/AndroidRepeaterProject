@@ -4,11 +4,13 @@ import java.io.*;
 import java.math.BigInteger;
 import java.security.MessageDigest;
 
+import fq.router2.CommonConfig;
+
 public class IOUtils {
 
-    public static File ETC_DIR = new File("/data/data/fq.router2/etc");
-    public static File VAR_DIR = new File("/data/data/fq.router2/var");
-    public static File LOG_DIR = new File("/data/data/fq.router2/log");
+    public static File ETC_DIR = new File(CommonConfig.basePathA + "etc");
+    public static File VAR_DIR = new File(CommonConfig.basePathA + "var");
+    public static File LOG_DIR = new File(CommonConfig.basePathA + "log");
 
     public static void createCommonDirs() {
         try {

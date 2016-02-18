@@ -5,6 +5,8 @@ import android.util.Log;
 import java.io.*;
 import java.util.Date;
 
+import fq.router2.CommonConfig;
+
 public class LogUtils {
 
     private static File logFile;
@@ -63,7 +65,7 @@ public class LogUtils {
 
     private static void writeLogFile(String level, String line) {
         if (logFile == null) {
-            logFile = new File("/data/data/fq.router2/log/current-java.log");
+            logFile = new File(CommonConfig.basePathA + "log/current-java.log");
             if (logFile.length() > 1024 * 1024) {
                 logFile.delete();
             }

@@ -3,14 +3,18 @@ package fq.router2.utils;
 import java.io.*;
 import java.util.*;
 
+import fq.router2.CommonConfig;
+
 
 public class ShellUtils {
 
     private final static String[] BINARY_PLACES = {"/data/bin/", "/system/bin/", "/system/xbin/", "/sbin/",
             "/data/local/xbin/", "/data/local/bin/", "/system/sd/xbin/", "/system/bin/failsafe/",
             "/data/local/"};
-    private final static String PYTHON_HOME = "/data/data/fq.router2/python";
-    public static File DATA_DIR = new File("/data/data/fq.router2");
+
+    private final static String PYTHON_HOME = CommonConfig.basePathA + "python";
+    public static File DATA_DIR = new File(CommonConfig.basePathANoSlash);
+
     public static File BUSYBOX_FILE = new File(DATA_DIR, "busybox");
     private static Boolean IS_ROOTED = null;
 

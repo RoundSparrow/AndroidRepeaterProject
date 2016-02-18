@@ -2,9 +2,11 @@ package fq.router2.utils;
 
 import java.io.File;
 
+import fq.router2.CommonConfig;
+
 public class StartedAtFlag {
 
-    private static File file = new File("/data/data/fq.router2/var/started-at");
+    private static File file = new File(CommonConfig.basePathA + "var/started-at");
 
     public static void create() {
         delete();

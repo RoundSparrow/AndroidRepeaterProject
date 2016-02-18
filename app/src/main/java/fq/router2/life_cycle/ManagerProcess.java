@@ -1,5 +1,6 @@
 package fq.router2.life_cycle;
 
+import fq.router2.CommonConfig;
 import fq.router2.utils.IOUtils;
 import fq.router2.utils.LogUtils;
 import fq.router2.utils.ShellUtils;
@@ -26,8 +27,8 @@ public class ManagerProcess {
             }
         }
         LogUtils.i("killall python");
-        if (new File("/data/data/fq.router2/busybox").exists()) {
-            ShellUtils.sudo("/data/data/fq.router2/busybox", "killall", "python");
+        if (new File(CommonConfig.basePathA + "busybox").exists()) {
+            ShellUtils.sudo(CommonConfig.basePathA + "busybox", "killall", "python");
         } else {
             ShellUtils.sudo(ShellUtils.findCommand("killall"), "python");
         }
@@ -40,8 +41,8 @@ public class ManagerProcess {
             }
         }
         LogUtils.e("killall python by force");
-        if (new File("/data/data/fq.router2/busybox").exists()) {
-            ShellUtils.sudo("/data/data/fq.router2/busybox", "killall", "-KILL", "python");
+        if (new File(CommonConfig.basePathA + "busybox").exists()) {
+            ShellUtils.sudo(CommonConfig.basePathA + "busybox", "killall", "-KILL", "python");
         } else {
             ShellUtils.sudo(ShellUtils.findCommand("killall"), "-KILL", "python");
         }
@@ -50,8 +51,8 @@ public class ManagerProcess {
     public static boolean exists() {
         try {
             String output;
-            if (new File("/data/data/fq.router2/busybox").exists()) {
-                output = ShellUtils.sudo("/data/data/fq.router2/busybox", "killall", "-0", "python");
+            if (new File(CommonConfig.basePathA + "busybox").exists()) {
+                output = ShellUtils.sudo(CommonConfig.basePathA + "busybox", "killall", "-0", "python");
             } else {
                 output = ShellUtils.sudo(ShellUtils.findCommand("killall"), "-0", "python");
             }
@@ -69,7 +70,7 @@ public class ManagerProcess {
         if (!Deployer.MANAGER_MAIN_PY.exists()) {
             return "run-normally";
         }
-        File runModeCacheFile = new File("/data/data/fq.router2/etc/run-mode2");
+        File runModeCacheFile = new File(CommonConfig.basePathA + "etc/run-mode2");
         if (runModeCacheFile.exists()) {
             String cacheContent = IOUtils.readFromFile(runModeCacheFile);
             if ("run-normally".equals(cacheContent)) {

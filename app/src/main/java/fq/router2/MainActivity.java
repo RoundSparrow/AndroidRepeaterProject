@@ -626,7 +626,7 @@ public class MainActivity extends Activity implements
                         public void onClick(DialogInterface dialogInterface, int i) {
                             killGooglePlay();
                             try {
-                                ShellUtils.sudo("/data/data/fq.router2/busybox", "rm", "-rf", "/data/data/com.android.vending/*");
+                                ShellUtils.sudo(CommonConfig.basePathA + "busybox", "rm", "-rf", "/data/data/com.android.vending/*");
                             } catch (Exception e) {
                                 LogUtils.e("failed to clear google play data", e);
                                 showToast(R.string.failed_to_open_google_play);
@@ -660,7 +660,7 @@ public class MainActivity extends Activity implements
 
     private void killGooglePlay() {
         try {
-            ShellUtils.sudo("/data/data/fq.router2/busybox", "killall", "com.android.vending");
+            ShellUtils.sudo(CommonConfig.basePathA + "busybox", "killall", "com.android.vending");
         } catch (Exception e) {
             LogUtils.e("failed to stop google play", e);
         }

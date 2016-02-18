@@ -8,6 +8,8 @@ import android.content.pm.PackageInfo;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Build;
+
+import fq.router2.CommonConfig;
 import fq.router2.R;
 import fq.router2.feedback.HandleAlertIntent;
 import fq.router2.feedback.HandleFatalErrorIntent;
@@ -87,7 +89,7 @@ public class LaunchService extends IntentService {
                 return;
             }
             sendBroadcast(new LaunchingIntent(_(R.string.status_about_to_launch_in_vpn_mode), 20));
-            File managerLogFile = new File("/data/data/fq.router2/log/fqsocks.log");
+            File managerLogFile = new File(CommonConfig.basePathA + "log/fqsocks.log");
             if (managerLogFile.exists() && !managerLogFile.canWrite()) {
                 handleFatalError(LogUtils.e(_(R.string.status_root_permission_lost)));
                 return;
@@ -223,7 +225,7 @@ public class LaunchService extends IntentService {
             OutputStreamWriter stdin = new OutputStreamWriter(process.getOutputStream());
             try {
                 String command = Deployer.PYTHON_LAUNCHER + " " + Deployer.MANAGER_VPN_PY.getAbsolutePath() +
-                        " > /data/data/fq.router2/log/current-python.log 2>&1";
+                        " > " + CommonConfig.basePathA + "log/current-python.log 2>&1";
                 LogUtils.i("write to stdin: " + command);
                 stdin.write(command);
                 stdin.write("\nexit\n");
@@ -238,7 +240,7 @@ public class LaunchService extends IntentService {
                 OutputStreamWriter stdin = new OutputStreamWriter(process.getOutputStream());
                 try {
                     String command = Deployer.PYTHON_LAUNCHER + " " + Deployer.MANAGER_MAIN_PY.getAbsolutePath() +
-                            " run > /data/data/fq.router2/log/current-python.log 2>&1";
+                            " run > " + CommonConfig.basePathA + "log/current-python.log 2>&1";
                     LogUtils.i("write to stdin: " + command);
                     stdin.write(command);
                     stdin.write("\nexit\n");
@@ -249,7 +251,7 @@ public class LaunchService extends IntentService {
             } else {
                 return ShellUtils.sudoNoWait(env, Deployer.PYTHON_LAUNCHER + " " +
                         Deployer.MANAGER_MAIN_PY.getAbsolutePath() +
-                        " run > /data/data/fq.router2/log/current-python.log 2>&1");
+                        " run > " + CommonConfig.basePathA + "log/current-python.log 2>&1");
             }
         }
     }

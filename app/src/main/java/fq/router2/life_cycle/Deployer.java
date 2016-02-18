@@ -2,6 +2,8 @@ package fq.router2.life_cycle;
 
 import android.content.Context;
 import android.os.Build;
+
+import fq.router2.CommonConfig;
 import fq.router2.R;
 import fq.router2.feedback.HandleAlertIntent;
 import fq.router2.utils.IOUtils;
@@ -138,14 +140,14 @@ public class Deployer {
             deleteDirectory(ShellUtils.DATA_DIR + "/proxy-tools");
             deleteDirectory(ShellUtils.DATA_DIR + "/manager");
             deleteDirectory(ShellUtils.DATA_DIR + "/payload.zip");
-            new File("/data/data/fq.router2/busybox").delete();
+            new File(CommonConfig.basePathA + "busybox").delete();
         }
     }
 
     private void deleteDirectory(String path) throws Exception {
         if (new File(path).exists()) {
             try {
-                ShellUtils.execute("/data/data/fq.router2/busybox", "rm", "-rf", path);
+                ShellUtils.execute(CommonConfig.basePathA + "busybox", "rm", "-rf", path);
             } catch (Exception e) {
                 LogUtils.e("failed to delete " + path, e);
             }
@@ -217,7 +219,7 @@ public class Deployer {
                     ShellUtils.BUSYBOX_FILE + " unzip -o -q payload.zip", new String[0], ShellUtils.DATA_DIR);
             ShellUtils.waitFor("unzip", process);
         }
-        if (!new File("/data/data/fq.router2/payload.zip").delete()) {
+        if (!new File(CommonConfig.basePathA + "payload.zip").delete()) {
             LogUtils.i("failed to delete payload.zip after unzip");
         }
         for (int i = 0; i < 10; i++) {
@@ -242,7 +244,7 @@ public class Deployer {
         if (!shouldLinkLibs()) {
             return;
         }
-        ShellUtils.sudo("/data/data/fq.router2/busybox", "mount", "-o", "remount,rw", "/system");
+        ShellUtils.sudo(CommonConfig.basePathA + "busybox", "mount", "-o", "remount,rw", "/system");
         try {
             File[] files = new File(PYTHON_DIR, "lib").listFiles();
             if (files == null) {
@@ -262,7 +264,7 @@ public class Deployer {
                 }
             }
         } finally {
-            ShellUtils.sudo("/data/data/fq.router2/busybox", "mount", "-o", "remount,ro", "/system");
+            ShellUtils.sudo(CommonConfig.basePathA + "busybox", "mount", "-o", "remount,ro", "/system");
         }
     }
 
@@ -331,7 +333,7 @@ public class Deployer {
                 ShellUtils.sudo(ShellUtils.findCommand("chmod"), "0700", file.getCanonicalPath());
             }
         } catch (NoSuchMethodException e) {
-            ShellUtils.execute("/data/data/fq.router2/busybox", "chmod", "0700", file.getAbsolutePath());
+            ShellUtils.execute(CommonConfig.basePathA + "busybox", "chmod", "0700", file.getAbsolutePath());
             LogUtils.i("successfully made " + file.getName() + " executable");
         }
     }
